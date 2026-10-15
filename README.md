@@ -15,7 +15,7 @@ Bem-vindo ao meu portfólio! Sou um desenvolvedor apaixonado por criar soluçõe
 
 ## 💻 Principais Projetos
 
-### 📌 Projeto 1: [Next Shop]
+### 📌 Projeto 1: [Price Tracker]
 
 **Descrição:** Price Tracker é um projeto para pesquisa e acompanhamento de preços das 3 maiores lojas de tecnologia do Brasil.
 
