@@ -17,10 +17,10 @@ Bem-vindo ao meu portfólio! Sou um desenvolvedor apaixonado por criar soluçõe
 
 ### 📌 Projeto 1: [Next Shop]
 
-**Descrição:** Next Shop é um projeto de e-commerce desenvolvido com Next.js, focado em performance, escalabilidade e experiência do usuário.
+**Descrição:** Price Tracker é um projeto para pesquisa e acompanhamento de preços das 3 maiores lojas de tecnologia do Brasil.
 
-- **Tecnologias:** Next 15 + Stitches.js + Stripe
-- **Repositório:** [GitHub](https://github.com/Renato-Rodrigues83/next-shop.git)
+- **Tecnologias:** Next 16 + Python + Go + Postgres
+- **App:** [Price Tracker](https://price-tracker-frontend-one.vercel.app/)
 
 ### 📌 Projeto 2: [Consume Api React]
 
